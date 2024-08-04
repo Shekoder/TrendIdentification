@@ -1,0 +1,203 @@
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
+Myntra data rows: 6
+Pinterest data rows: 13
+Instagram data rows: 7
+Number of documents before deletion: 26
+Number of documents after deletion: 0
+Data from all files inserted successfully.
+Number of documents after insertion: 26
